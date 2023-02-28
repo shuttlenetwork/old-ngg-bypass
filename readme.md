@@ -26,4 +26,4 @@ npm start
 ```
 ## Info
 
-Website must be proxies through a proxy to work
+Website must be proxied through a proxy to work
