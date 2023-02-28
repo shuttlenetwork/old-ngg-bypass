@@ -10,6 +10,12 @@ Play android games online <br>
 [![Deploy to Amplify Console](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/amplifyconsole.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/liutristan/shuttlegames)
 [![Run on Google Cloud](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/googlecloud.svg)](https://deploy.cloud.run/?git_repo=https://github.com/liutristan/shuttlegames)
 
+## Discord Server
+
+Press the join button to join the server:
+
+[![Join us on Discord](https://invidget.switchblade.xyz/xi?theme=dark)](https://discord.gg/xi)
+
 ## Setup
 
 ```sh
