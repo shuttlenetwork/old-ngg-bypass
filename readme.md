@@ -1,6 +1,5 @@
-# Shuttlegames
+# Shuttlegames (50 stars for maybe full source)
 Play mobile games online <br>
-50 stars for full source
 
 [![Deploy to Heroku](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/liutristan/shuttlegames)
 [![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://replit.com/github/liutristan/shuttlegames)
