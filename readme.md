@@ -1,4 +1,4 @@
-# Shuttlegames (50 stars for maybe full source)
+# Shuttlegames (WORKING MARCH 2023)
 Play mobile games online <br>
 
 [![Deploy to Heroku](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/liutristan/shuttlegames)
