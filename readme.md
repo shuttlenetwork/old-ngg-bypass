@@ -25,4 +25,4 @@ npm start
 ```
 ## Info
 
-Website must be proxied through a proxy to work
+After you deploy the website, make sure to use a web proxy like https://shuttleproxy.com to proxy your self hosted site for it to work.
