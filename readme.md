@@ -1,5 +1,4 @@
-# Shuttlegames (WORKING MARCH 2023)
-Play mobile games online <br>
+# Shuttlegames | to choilieng: can i have credits please, if u dont ur skid and ill never put it on github again and ill get it patched :)
 
 [![Deploy to Heroku](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/liutristan/shuttlegames)
 [![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://replit.com/github/liutristan/shuttlegames)
