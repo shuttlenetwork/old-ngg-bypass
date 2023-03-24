@@ -1,4 +1,4 @@
-# Shuttlegames | to choilieng: can i have credits please, if u dont ur skid and ill never put it on github again and ill get it patched :)
+# Shuttlegames | YOU ARE NOT ALLOWED TO USE THE INDEX.JS AND THE WASM IF YOU ARE GOING TO CHANGE THE HTML IN ANY WAY
 
 [![Deploy to Heroku](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/liutristan/shuttlegames)
 [![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://replit.com/github/liutristan/shuttlegames)
