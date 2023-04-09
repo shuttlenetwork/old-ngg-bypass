@@ -1,4 +1,4 @@
-# Shuttlegames | YOU ARE NOT ALLOWED TO USE THE INDEX.JS AND THE WASM IF YOU ARE GOING TO CHANGE THE HTML IN ANY WAY
+# Shuttlegames | you are not allowed to use the source if your going to change it
 
 [![Deploy to Heroku](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/liutristan/shuttlegames)
 [![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://replit.com/github/liutristan/shuttlegames)
